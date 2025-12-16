@@ -27,6 +27,7 @@ email-automation-gemini/
 ```
 
 
+
 ## How It Works
 1. The user provides an email context or prompt  
 2. The application sends the prompt to Google Gemini  
