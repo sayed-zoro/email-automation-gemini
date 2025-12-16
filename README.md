@@ -17,14 +17,12 @@ It allows users to create well-structured, context-aware emails for use cases su
 - SMTP (Gmail or similar)
 
 ## Project Structure
-
 email-automation-gemini/
 │── email_automation.py
 │── streamlit_app.py
 │── requirements.txt
 │── .gitignore
 │── README.md
-
 
 ## How It Works
 1. The user provides an email context or prompt  
